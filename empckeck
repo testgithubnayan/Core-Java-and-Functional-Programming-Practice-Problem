@@ -1,0 +1,17 @@
+package RFP;
+
+
+public class empcheck  {
+
+	
+	public static void main(String[] args) {
+		
+		
+	int isfulltime = 1 ;
+	 double empcheck= Math.floor(Math.random() * 10 ) % 2 ;
+	 if (isfulltime == 1)
+	 System.out.print("employee is present ");
+	 else 
+		 System.out.print("emloyee is not present ");
+}
+	}
