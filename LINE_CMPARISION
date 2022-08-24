@@ -1,8 +1,8 @@
-package RFP;
+package brigelabz;
 import java.io.*;
 import java.util.*;
 
-public class factors  {
+public class linecomparison  {
 
 	
 	public static void main(String... a) {
